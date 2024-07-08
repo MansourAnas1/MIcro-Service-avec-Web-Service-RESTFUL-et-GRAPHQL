@@ -58,6 +58,6 @@ Les Customer
 Customer GraphQl
 ![9 Customer GraphQl](https://github.com/MansourAnas1/MIcro-Service-avec-Web-Service-RESTFUL-et-GRAPHQL/assets/167020036/4b664a7c-f9df-4a24-ba65-0bc00fcc10ee)
 
-Spisification des donner 
+Specification des donner 
 ![10 spisification des donner](https://github.com/MansourAnas1/MIcro-Service-avec-Web-Service-RESTFUL-et-GRAPHQL/assets/167020036/74649db6-688f-4948-bf5e-43aa2ae82709)
 
